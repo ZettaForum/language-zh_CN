@@ -1,0 +1,15 @@
+{
+    "name": "@zetta-forum/language-zh-cn",
+    "description": "ZettaForum的简体中文语言包",
+    "author": "Xmader",
+    "main": "zh_CN.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ZettaForum/language-zh_CN.git"
+    },
+    "homepage": "https://github.com/ZettaForum/language-zh_CN#readme",
+    "bugs": {
+        "url": "https://github.com/ZettaForum/language-zh_CN/issues"
+    },
+    "license": "MIT"
+}
